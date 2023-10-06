@@ -1,4 +1,7 @@
-# Agritech
+# Plant Pharma
 
-![image](https://github.com/MainakRepositor/Agritech/assets/64016811/bc55dbdb-2a9a-4ec2-abb6-6b1ff09f7733)
+Advanced Plant Disease Detection System
+
+![image](https://github.com/MainakRepositor/PlantPharma/assets/64016811/62bc1431-deb0-4363-97e4-b360bebcdb5e)
+
 
